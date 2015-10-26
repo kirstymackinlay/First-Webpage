@@ -1,0 +1,29 @@
+#header {
+	height: 200px;
+	width: 100%;
+	background-color: pink;
+}
+
+h1 {
+	text-align: center;
+	color:  #589CE1;
+}
+
+body {
+	background-color: #589CE1;
+}
+
+.nav li {
+      padding:17px;
+      background: rgba(210,150,255,1);
+      display: inline-block;
+    }
+    ul {list-style-type: none;
+    	text-align: center;
+    }
+    a {
+      color: rgba(1000,70,220,1)
+    }
+    a, u {
+    text-decoration: none;
+    }
